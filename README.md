@@ -2,7 +2,7 @@
 
 *Introduction*
 
-PeerPower VC stands as a pioneering micro-venture capital firm rooted in the dynamic entrepreneurial landscape of Cambodia. Our mission is nothing short of catalyzing innovation, empowering startups, and fostering robust economic growth within the vibrant heart of Southeast Asia.
+PeerPower VC stands as a pioneering micro-venture capital firm rooted in the dynamic entrepreneurial landscape of Cambodia. Our mission is to catalyz innovation, empowering startups, and fostering robust economic growth within the vibrant heart of Southeast Asia.
 
 At PeerPower VC, we recognize that remarkable ideas often lack the resources they desperately need to flourish. It's this recognition that has guided our purpose – to pinpoint and invest in the most promising early-stage startups in the region. However, our commitment goes beyond mere financial backing. We pledge mentorship, expertise, and access to a vast network of industry leaders, all in a bid to empower the next wave of Cambodian entrepreneurs.
 
